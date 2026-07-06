@@ -1,1 +1,1 @@
-print("Hi world!")
+print("ПРоверка 2")
